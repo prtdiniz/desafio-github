@@ -1,5 +1,5 @@
 # desafio-github
-Repositório do Desafio Git Github - Curso Dio
+Repositório do Desafio de Projeto Git Github - Curso Dio
 
-##Links úteis
-[Sintaxe básica Markdown] (https://www.markdownguide.org/basic-syntax/)
+## Links úteis
+[Sintaxe Básica de Markdown](https://www.markdownguide.org/basic-syntax/)
